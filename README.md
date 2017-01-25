@@ -19,6 +19,7 @@ Three main tasks were solved in this project:
 ### Introduction
 Bee tracking with stereo cameras [[0]](#chiron-et-al)  Controlled environment, introduce the test data and describe the task itself
 
+whats good, whats bad about the given data
 
 ### Method
 
@@ -32,7 +33,8 @@ Pedestrian classification [[1]](#dalal-et-al)
 
 What did the SVM actually learn? Bees, multiple bees, parts of the lane
 
-### Limitations
+### Limitations & Suggested Improvements
+
 
 ### Appendix A : Results
 The resulting algorithm for detecting and tracking was used to generate a novel dataset from the existing videos.
