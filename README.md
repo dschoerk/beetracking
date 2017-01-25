@@ -11,12 +11,12 @@ Three main tasks were solved in this project:
 3. Generation of a bee dataset for machine learning methods (+experimental classification with SVM)
 
 ### Introduction
-Bee tracking with stereo cameras [[0]](#Chiron et al) 
+Bee tracking with stereo cameras [[0]](#chiron-et-al) 
 
 
 ### Method
 
-Pedestrian classification [[1]](#Dalal et al)
+Pedestrian classification [[1]](#chiron-et-al)
 
 
 ### Limitations
