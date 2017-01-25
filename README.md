@@ -17,7 +17,7 @@ Three main tasks were solved in this project:
 3. Generation of a bee dataset for machine learning methods (+experimental classification with SVM)
 
 ### Introduction
-Bee tracking with stereo cameras [[0]](#chiron-et-al) 
+Bee tracking with stereo cameras [[0]](#chiron-et-al)  Controlled environment, introduce the test data and describe the task itself
 
 
 ### Method
@@ -34,7 +34,7 @@ What did the SVM actually learn? Bees, multiple bees, parts of the lane
 
 ### Limitations
 
-### Dataset
+### Appendix A : Results
 The resulting algorithm for detecting and tracking was used to generate a novel dataset from the existing videos.
 The new dataset contains two classes of images.
 
@@ -43,7 +43,7 @@ Class | Description | #
 | Class1 - positive samples  | Images of bees  | ~30.000 images |
 | Class2 - negative samples  | Images of backg | ~20.000 images |
 
-### Run the code
+### Appendix B : Running the code
 The code was developed on Microsoft Windows 10, naturally the guidlines below only apply to Windows users.
 
 Needed tools and libraries:
