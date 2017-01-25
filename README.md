@@ -16,7 +16,7 @@ Bee tracking with stereo cameras [[0]](#chiron-et-al)
 
 ### Method
 
-Pedestrian classification [[1]](#chiron-et-al)
+Pedestrian classification [[1]](#dalal-et-al)
 
 
 ### Limitations
@@ -49,10 +49,10 @@ pip install opencv_python‑3.2.0‑cp35‑cp35m‑win_amd64.whl
 
 ```
 
-##### Chiron et al 
+##### Chiron et al. 
 Chiron, Guillaume, Petra Gomez-Krämer, and Michel Ménard. "Detecting and tracking honeybees in 3D at the beehive entrance using stereo vision." EURASIP Journal on Image and Video Processing 2013.1 (2013): 1-17
 
-##### Dalal et al
+##### Dalal et al.
 Dalal, Navneet, and Bill Triggs. "Histograms of oriented gradients for human detection." Computer Vision and Pattern Recognition, 2005. CVPR 2005. IEEE Computer Society Conference on. Vol. 1. IEEE, 2005.
 
 
