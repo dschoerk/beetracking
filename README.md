@@ -12,6 +12,10 @@ Three main tasks were solved in this project:
 
 ### Introduction
 
+### Method
+
+### Limitations
+
 ### Dataset
 The resulting algorithm for detecting and tracking was used to generate a novel dataset from the existing videos.
 The new dataset contains two classes of images.
