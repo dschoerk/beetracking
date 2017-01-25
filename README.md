@@ -7,4 +7,10 @@ Only the generated sourcecodes and report are part of this repository, original 
 ##### 1.) Introduction
 
 ##### 2.) Dataset
+The resulting algorithm for detecting and tracking was used to generate a novel dataset from the existing videos.
+The new dataset contains two classes of images.
 
+Class | Description | #
+--- | --- | ---
+| Class1 - positive samples  | Images of bees  | ~30.000 images |
+| Class2 - negative samples  | Images of backg | ~20.000 images |
