@@ -16,8 +16,7 @@ Class | Description | #
 | Class2 - negative samples  | Images of backg | ~20.000 images |
 
 ### Run the code
-###### Dependencies
-To run the code Python 3.5 64bit and Opencv. I ran the code on Microsoft Windows, so all directions I am giving below are also for Windows. 
+The code was developed on Microsoft Windows 10, naturally the guidlines below only apply to Windows users.
 
 Needed tools and libraries:
 * [Python 3.5 64bit](https://www.python.org/downloads/release/python-353/ "Python 3.5 64bit")
