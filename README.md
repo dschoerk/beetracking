@@ -22,8 +22,15 @@ Bee tracking with stereo cameras [[0]](#chiron-et-al)
 
 ### Method
 
+#### Detection
+#### Tracking
+#### Dataset
+#### Training and Classification with SVM
+
+
 Pedestrian classification [[1]](#dalal-et-al)
 
+What did the SVM actually learn? Bees, multiple bees, parts of the lane
 
 ### Limitations
 
