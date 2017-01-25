@@ -1,8 +1,14 @@
 # Beetracking
 #### Computer Vision Systems Programming, TU Vienna, January 2017
 
-The shared sourcecode was created during a the Computer Vision Systems Programming course at Vienna Technical University. 
+This work was created within the course Computer Vision Systems Programming course at Vienna Technical University. 
 Only the generated sourcecodes and report are part of this repository, original and generated datasets are not published. 
+
+Three main tasks were solved in this project:
+
+1. Per video frame detection of bees
+2. Continuous tracking of individual bees
+3. Generation of a bee dataset for machine learning methods (+experimental classification with SVM)
 
 ### Introduction
 
@@ -24,7 +30,7 @@ Needed tools and libraries:
 * Numpy
 * Imutils, it is used for the Non-Maxima Suppression
 
-If you are using a different version of Python please check out the correct dependencies here: [Unofficial Python Library Builds](http://www.lfd.uci.edu/~gohlke/pythonlibs/ "Unofficial Python Builds")
+> If you are using a different version of Python please check out the correct dependencies here: [Unofficial Python Library Builds](http://www.lfd.uci.edu/~gohlke/pythonlibs/ "Unofficial Python Builds")
 
 1. After downloading follow the installer for Python 3.5. 
 2. Then install the dependencies by running the following command:
