@@ -7,7 +7,7 @@ alt="IMAGE ALT TEXT HERE" width="320" border="10" /></a>
 
 (Old video, to be replaced with a newer version)
 
-This work was created within the course Computer Vision Systems Programming course at Vienna Technical University. 
+This work was created within the course Computer Vision Systems Programming at Vienna University of Technology. 
 Only the generated sourcecodes and report are part of this repository, original and generated datasets are not published. 
 
 Three main tasks were solved in this project:
