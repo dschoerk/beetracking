@@ -26,6 +26,8 @@ whats good, whats bad about the given data
 #### Detection
 #### Tracking
 #### Dataset
+More diverse data would be good, samples over all data every 10 seconds. Higher variety in terms of lighting conditions, bees etc.
+
 #### Training and Classification with SVM
 
 
