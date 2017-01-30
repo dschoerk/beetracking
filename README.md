@@ -16,6 +16,15 @@ Three main tasks were solved in this project:
 2. Continuous tracking of individual bees
 3. Generation of a bee dataset for machine learning methods (+experimental classification with SVM)
 
+### Related Work
+
+http://www.eecs.qmul.ac.uk/~andrea/thdt.html
+https://www.youtube.com/watch?v=f5zW3BzxlYs
+https://www.youtube.com/watch?v=o3a1_6tIAvA
+http://beesbook.mi.fu-berlin.de/wordpress/
+http://www.keltronixinc.com/
+
+
 ### Introduction
 Bee tracking with stereo cameras [[0]](#chiron-et-al)  Controlled environment, introduce the test data and describe the task itself
 
