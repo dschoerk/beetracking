@@ -80,5 +80,11 @@ Chiron, Guillaume, Petra Gomez-Krämer, and Michel Ménard. "Detecting and track
 ##### Dalal et al.
 Dalal, Navneet, and Bill Triggs. "Histograms of oriented gradients for human detection." Computer Vision and Pattern Recognition, 2005. CVPR 2005. IEEE Computer Society Conference on. Vol. 1. IEEE, 2005.
 
+<a href="https://www.youtube.com/watch?v=o3a1_6tIAvA
+" target="_blank"><img src="http://img.youtube.com/vi/o3a1_6tIAvA/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="320" border="10" /></a>
 
+<a href="https://www.youtube.com/watch?v=f5zW3BzxlYs
+" target="_blank"><img src="http://img.youtube.com/vi/f5zW3BzxlYs/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="320" border="10" /></a>
 
