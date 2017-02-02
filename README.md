@@ -7,8 +7,7 @@ alt="IMAGE ALT TEXT HERE" width="320" border="10" /></a>
 
 (Old video, to be replaced with a newer version)
 
-This work was created within the course Computer Vision Systems Programming at Vienna University of Technology. 
-Only the generated sourcecodes and report are part of this repository, original and generated datasets are not published. 
+This work was created within the course Computer Vision Systems Programming at Vienna University of Technology. Only the generated sourcecodes and report are part of this repository, original and generated datasets are not published. This document is an overview over the accomplished results, the full report can be found here: [Report](https://github.com/dschoerk/beetracking/blob/master/docs/finalreport.pdf)
 
 Three main tasks were solved in this project:
 
