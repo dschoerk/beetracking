@@ -9,8 +9,8 @@ This work was created within the course Computer Vision Systems Programming at V
 
 Three main tasks were solved in this project:
 
-1. Per frame detection and continuous tracking of bees [Source](Beetracker.py)
-2. Generation of a bee dataset for machine learning methods [Source](Beetracker.py)
+1. Per frame detection and continuous tracking of bees [Source](BeeTracker.py)
+2. Generation of a bee dataset for machine learning methods [Source](BeeTracker.py#L147-L154) [Source](BeeTracker.py#L159-L233)
 3. Sliding window based bee detection based on a Support Vector Machine (experimental) [Source](TrainSvm.py)
 
 ##### Running the code
