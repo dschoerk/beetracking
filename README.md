@@ -5,9 +5,7 @@
 " target="_blank"><img src="http://img.youtube.com/vi/2fiYIid4Sl4/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="420" border="10" /></a>
 
-(Old video, to be replaced with a newer version)
-
-This work was created within the course Computer Vision Systems Programming at Vienna University of Technology. Only the generated sourcecodes and report are part of this repository, original and generated datasets are not published. This document is an overview over the accomplished results, the full report can be found here: [Report](https://github.com/dschoerk/beetracking/blob/master/docs/finalreport.pdf)
+This work was created within the course Computer Vision Systems Programming at Vienna University of Technology. Only the generated sourcecode and report are part of this repository, original and generated datasets are not published. This document is an overview over the accomplished results, the full report can be found here: [Report](https://github.com/dschoerk/beetracking/blob/master/docs/finalreport.pdf)
 
 Three main tasks were solved in this project:
 
@@ -15,47 +13,7 @@ Three main tasks were solved in this project:
 2. Continuous tracking of individual bees
 3. Generation of a bee dataset for machine learning methods (+experimental classification with SVM)
 
-### Related Work
-
-http://www.eecs.qmul.ac.uk/~andrea/thdt.html
-https://www.youtube.com/watch?v=f5zW3BzxlYs
-https://www.youtube.com/watch?v=o3a1_6tIAvA
-http://beesbook.mi.fu-berlin.de/wordpress/
-http://www.keltronixinc.com/
-
-
-### Introduction
-Bee tracking with stereo cameras [[0]](#chiron-et-al)  Controlled environment, introduce the test data and describe the task itself
-
-whats good, whats bad about the given data
-
-### Method
-
-#### Detection
-#### Tracking
-#### Dataset
-More diverse data would be good, samples over all data every 10 seconds. Higher variety in terms of lighting conditions, bees etc.
-
-#### Training and Classification with SVM
-
-
-Pedestrian classification [[1]](#dalal-et-al)
-
-What did the SVM actually learn? Bees, multiple bees, parts of the lane
-
-### Limitations & Suggested Improvements
-
-
-### Appendix A : Results
-The resulting algorithm for detecting and tracking was used to generate a novel dataset from the existing videos.
-The new dataset contains two classes of images.
-
-Class | Description | #
---- | --- | ---
-| Class1 - positive samples  | Images of bees  | ~30.000 images |
-| Class2 - negative samples  | Images of backg | ~20.000 images |
-
-### Appendix B : Running the code
+##### Running the code
 The code was developed on Microsoft Windows 10, naturally the guidlines below only apply to Windows users.
 
 Needed tools and libraries:
@@ -73,24 +31,3 @@ pip install numpy imutils
 pip install opencv_python‑3.2.0‑cp35‑cp35m‑win_amd64.whl
 
 ```
-
-##### Chiron et al. 
-Chiron, Guillaume, Petra Gomez-Krämer, and Michel Ménard. "Detecting and tracking honeybees in 3D at the beehive entrance using stereo vision." EURASIP Journal on Image and Video Processing 2013.1 (2013): 1-17
-
-##### Dalal et al.
-Dalal, Navneet, and Bill Triggs. "Histograms of oriented gradients for human detection." Computer Vision and Pattern Recognition, 2005. CVPR 2005. IEEE Computer Society Conference on. Vol. 1. IEEE, 2005.
-
-### Videos of Related Work
-
-<a href="https://www.youtube.com/watch?v=o3a1_6tIAvA
-" target="_blank"><img src="http://img.youtube.com/vi/o3a1_6tIAvA/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="320" border="10" /></a>
-
-<a href="https://www.youtube.com/watch?v=f5zW3BzxlYs
-" target="_blank"><img src="http://img.youtube.com/vi/f5zW3BzxlYs/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="320" border="10" /></a>
-
-<a href="https://www.youtube.com/watch?v=r50GwL_toBU
-" target="_blank"><img src="http://img.youtube.com/vi/r50GwL_toBU/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="320" border="10" /></a>
-
