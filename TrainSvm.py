@@ -1,3 +1,6 @@
+## Trains an SVM on the generated dataset and displays the result
+## mind the if False: switches in the code !!!
+
 from os import listdir
 import os
 from os.path import isfile, join

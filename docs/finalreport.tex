@@ -111,7 +111,7 @@ Evaluation of the tracking algorithm is a difficult task for multiple reasons. T
 
 For the following evaluation the goal was defined such that a bee must be detect once it fully moved inside one of the seven lanes. We did a manual counting on how many bees had been detected correctly (i.e. tracking window is in the correct position) each frame (TP), how many detections happened without a bee present (FP) and how many bees were not detected (FN) on a per frame basis. 
 
-To do a crude evaluation I randomly selected one video and did a manual counting. With the result of TP: 1409, FP: 35, FN: 21, F1: 0.98
+For the evaluation one video was randomly selected and manually counted by the above defined measures. Results are TP: 1409, FP: 35, FN: 21, F1: 0.98
 
 At this point it needs to be again emphasized that these numbers need to be put into perspective with the application such a tracker would be used in.
 
@@ -149,7 +149,6 @@ Apparently the SVM has learned to detect bees to some degree, whereas the result
 
 \section{Conclusion}
 In this work we have created a detection and tracking algorithm for a specialised bee observation setup. Furthermore we used the algorithm to generate a new patch-based bee dataset, for applications of machine learning, and trained a simple model on the dataset to detect bees in the originally provided video footage.
-
 
 We hope that the generated data will be of use for future detection and tracking algorithms, and lets future researchers create more robust tracking algorithms with it.
 
