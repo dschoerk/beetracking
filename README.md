@@ -3,7 +3,7 @@
 
 <a href="https://www.youtube.com/watch?v=2fiYIid4Sl4
 " target="_blank"><img src="http://img.youtube.com/vi/2fiYIid4Sl4/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="320" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="420" border="10" /></a>
 
 (Old video, to be replaced with a newer version)
 
