@@ -5,7 +5,7 @@
 " target="_blank"><img src="http://img.youtube.com/vi/2fiYIid4Sl4/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="420" border="10" /></a>
 
-This work was created within the course Computer Vision Systems Programming at Vienna University of Technology. Only the generated sourcecode and report are part of this repository, original and generated datasets are not published. This document is an overview over the accomplished results, the full report can be found here: [Report](https://github.com/dschoerk/beetracking/blob/master/docs/finalreport.pdf)
+This work was created within the course Computer Vision Systems Programming at Vienna University of Technology. Only the generated sourcecode and report are part of this repository, original and generated datasets are not published. This document is an overview over the accomplished results, the full report can be found here: [Report](https://github.com/dschoerk/beetracking/blob/master/docs/beetracking_finalreport.pdf)
 
 Three main tasks were solved in this project:
 
